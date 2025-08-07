@@ -4,3 +4,4 @@ dist/
 *.pyc
 node_modules/
 .pytest_cache/
+*.tmp
