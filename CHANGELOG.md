@@ -23,3 +23,4 @@
 - chore: link the usage section
 - fix: fix a small wording issue
 - fix: link the usage section
+- docs: clarify the setup steps
