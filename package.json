@@ -1,6 +1,6 @@
 {
   "name": "agentguard",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
   "main": "src/index.js",
   "scripts": {
