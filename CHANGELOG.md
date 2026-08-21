@@ -38,3 +38,4 @@
 - chore: link the usage section
 - chore: add a note about the defaults
 - fix: clarify the setup steps
+- fix: clarify the setup steps
